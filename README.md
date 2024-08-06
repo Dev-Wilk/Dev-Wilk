@@ -5,7 +5,7 @@ Meus principais interesses são Python, Desenvolvimento Web.
 Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é focado em Java mas foco pessoal é Python. Tenho um profundo interesse pela Inteligência Artificial. 
 
 ## Connect with me:
-[LinkedIn]()
+[![LinkedIn](https://i.imgur.com/your-linkedin-icon.png)]()
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
