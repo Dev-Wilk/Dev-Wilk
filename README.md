@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##  Sobre Mim
+##  About Me 
 Meus principais interesses são Python, Desenvolvimento Web.
 Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é focado em Java mas foco pessoal é Python. Tenho um profundo interesse pela Inteligência Artificial. 
 
