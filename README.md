@@ -4,9 +4,10 @@
 Meus principais interesses são Python, Desenvolvimento Web.
 Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é focado em Java mas foco pessoal é Python. Tenho um profundo interesse pela Inteligência Artificial. 
 
-## Connect with me:
-[![LinkedIn](https://i.imgur.com/your-linkedin-icon.png)](https://www.linkedin.com/in/victor-wilk-a1371a235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![LinkedIn](https://i.imgur.com/your-linkedin-icon.png)](https://www.linkedin.com/in/seu_perfil_linkedin)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ilyasse-brachmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyasse-brachmi" height="30" width="40" /></a>
+</p>
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
