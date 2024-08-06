@@ -12,5 +12,6 @@ Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Wilk&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wilk&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Wilk&show_icons=true&theme=tokyonight)
