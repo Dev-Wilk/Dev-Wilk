@@ -6,6 +6,7 @@ Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é
 
 ## Connect with me:
 [![LinkedIn](https://i.imgur.com/your-linkedin-icon.png)](https://www.linkedin.com/in/victor-wilk-a1371a235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://i.imgur.com/your-linkedin-icon.png)](https://www.linkedin.com/in/seu_perfil_linkedin)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
