@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ##  Sobre Mim
-Sou um estudante utilizando python as últimas tecnologias. Meus principais interesses são Python, Desenvolvimento Web.
+Meus principais interesses são Python, Desenvolvimento Web.
 Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é focado em Java mas foco pessoal é Python.
 
 ## Habilidades
