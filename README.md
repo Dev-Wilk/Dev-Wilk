@@ -6,7 +6,7 @@ Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ilyasse-brachmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyasse-brachmi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victor-wilk-a1371a235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyasse-brachmi" height="30" width="40" /></a>
 </p>
 
 ## Habilidades
