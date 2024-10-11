@@ -1,15 +1,21 @@
-## Hi there 👋
+## Eu sou Victor, futuro engenheiro de Dados 👋
+  * 🔭 Atualmente estou trabalhando como vigilante
+  * 🌱 Gosto de estudar Programação Python, SQL e IA
+  * 👯 Atualmente estou aprendendo sobre análise de dados e engenharia de dados
+  * 👨‍💻 Perfil Público no Linkedin: https://www.linkedin.com/in/victor-wilk-a1371a235/
+  * 📫 Como entrar em contato comigo: programadorwilk@gmail.com
+  * ⚡ Curiosidade: Filosofia e Inteligiencia Artificial
 
-##  About Me 
-Meus principais interesses são Python, data analytics.
-Atualmente estou fazendo faculdade de Analise e desenvolvimento sistemas, que é focado em Java mas foco pessoal é Python. Tenho um profundo interesse pela Inteligência Artificial. 
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/victor-wilk-a1371a235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyasse-brachmi" height="30" width="40" /></a>
 </p>
 
-## Habilidades
+## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=black)
