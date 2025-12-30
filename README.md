@@ -1,13 +1,5 @@
 ## Eu sou Victor, futuro engenheiro de Dados 👋
-  * 🔭 Atualmente estou trabalhando como vigilante
-  * 🌱 Gosto de estudar Programação Python, SQL e IA
-  * 👯 Atualmente estou aprendendo sobre análise de dados e engenharia de dados
-  * 👨‍💻 Perfil Público no Linkedin: https://www.linkedin.com/in/victor-wilk-a1371a235/
-  * 📫 Como entrar em contato comigo: programadorwilk@gmail.com
-  * ⚡ Curiosidade: Filosofia e Inteligiencia Artificial
-
-
-
+  
 
 
 <h3 align="left">Connect with me:</h3>
