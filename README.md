@@ -1,4 +1,4 @@
-## Eu sou Victor, futuro engenheiro de Dados 👋
+## Eu sou Victor
   
 
 
